@@ -1,0 +1,27 @@
+name: Question Request
+description: Propose a new interview question to add to the technical or behavioral libraries.
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest an interview question you've encountered or think is important.
+  - type: input
+    id: topic
+    attributes:
+      label: Relevant Topic/Category
+      placeholder: e.g., System Design, JavaScript, Behavioral
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: The Question
+    validations:
+      required: true
+  - type: textarea
+    id: expected_answer
+    attributes:
+      label: Expected Answer / Key Points
+      description: What are the main things the interviewer is looking for?

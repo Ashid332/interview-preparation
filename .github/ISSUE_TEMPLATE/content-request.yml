@@ -1,0 +1,29 @@
+name: Content Request
+description: Request a new topic, learning path, or cheat sheet.
+title: "[Content]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea for new content? Let's discuss it before writing.
+  - type: input
+    id: topic
+    attributes:
+      label: Proposed Topic
+      description: What is the new topic?
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why is this important?
+      description: Why does this belong in the Engineering Interview Handbook?
+    validations:
+      required: true
+  - type: checkboxes
+    id: contribute
+    attributes:
+      label: Contribution
+      options:
+        - label: I am willing to write this content myself.

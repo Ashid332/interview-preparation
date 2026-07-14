@@ -1,0 +1,14 @@
+name: Interview Discussion
+description: Discuss interview prep strategies, negotiate offers, or ask general questions.
+title: "[Topic]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome to the discussion board! Use this to ask for advice, review offers, or discuss prep strategies.
+  - type: textarea
+    id: discussion_topic
+    attributes:
+      label: What's on your mind?
+    validations:
+      required: true

@@ -1,0 +1,28 @@
+name: Resource Request
+description: Suggest an external resource (book, course, blog) to add to the resources section.
+title: "[Resource]: "
+labels: ["resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us build the best curated list of interview resources!
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource Name
+    validations:
+      required: true
+  - type: input
+    id: resource_link
+    attributes:
+      label: Link
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should we include this?
+      description: How did this resource specifically help you prepare?
+    validations:
+      required: true

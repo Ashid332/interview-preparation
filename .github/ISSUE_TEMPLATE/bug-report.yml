@@ -1,0 +1,29 @@
+name: Bug Report
+description: Report a typo, broken link, or outdated information.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this!
+  - type: input
+    id: location
+    attributes:
+      label: File or URL Location
+      description: Where did you find the bug?
+      placeholder: e.g. 13-system-design/fundamentals.md
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Bug
+      description: What is wrong? (Typo, broken link, incorrect fact, etc.)
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_fix
+    attributes:
+      label: Proposed Fix (Optional)
+      description: How should this be corrected?

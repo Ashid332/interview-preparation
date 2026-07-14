@@ -1,0 +1,46 @@
+name: Interview Experience
+description: Share your recent interview loop experience.
+title: "[Experience]: [Company Name] - [Role]"
+labels: ["interview-experience"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share your experience to help others! We will merge this into the relevant Company Guide. 
+        Feel free to anonymize any identifying details.
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role and Level
+      placeholder: e.g., Senior Software Engineer (L5)
+    validations:
+      required: true
+  - type: dropdown
+    id: outcome
+    attributes:
+      label: Outcome
+      options:
+        - Offer Accepted
+        - Offer Declined
+        - Rejected
+        - Ghosted / Withdrew
+    validations:
+      required: true
+  - type: textarea
+    id: rounds
+    attributes:
+      label: Interview Rounds Breakdown
+      description: Briefly describe the online assessment, phone screen, and onsite rounds.
+    validations:
+      required: true
+  - type: textarea
+    id: advice
+    attributes:
+      label: Lessons Learned & Advice
+      description: What would you do differently? What resources helped the most?
