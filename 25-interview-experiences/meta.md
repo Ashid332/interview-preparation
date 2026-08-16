@@ -1,4 +1,4 @@
-﻿# Meta Interview Experience
+# Meta Interview Experience
 
 ## Role/Level
 - **Title:** Software Engineer

@@ -1,4 +1,4 @@
-﻿# Portfolio Development
+# Portfolio Development
 
 While a GitHub profile shows *how* you build, a portfolio shows *what* you build and the user experience you deliver. Portfolios are practically mandatory for frontend and full-stack engineers, but can also be highly beneficial for backend and data engineers if structured correctly.
 
@@ -22,7 +22,7 @@ For each major project, include:
 
 
 ---
-### ðŸ¤– AI Interview Coach Prompts
+### 🤖 AI Interview Coach Prompts
 *Copy and paste these into your AI assistant to develop your portfolio.*
 
 

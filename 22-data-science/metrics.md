@@ -24,8 +24,8 @@ I would look at **N-day retention** (e.g., D1, D7, D30) to see if users come bac
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Metric Definition | Define success metrics for Uber Eats | Medium | [Link](#) |
-| Churn Analysis | Formulate a plan to identify leading indicators of churn | Hard | [Link](#) |
+| Metric Definition | Define success metrics for Uber Eats | Medium | None |
+| Churn Analysis | Formulate a plan to identify leading indicators of churn | Hard | None |
 
 ## Hiring Manager Perspective
 A good analyst thinks like a product manager. They don't just calculate a number; they question whether it's the *right* number. If engagement goes up but revenue goes down, they know how to investigate the trade-off.

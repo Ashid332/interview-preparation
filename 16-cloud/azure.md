@@ -1,4 +1,4 @@
-﻿# Microsoft Azure
+# Microsoft Azure
 
 ## Overview
 Microsoft Azure is a premier cloud computing platform offering robust integration with the Microsoft ecosystem (Active Directory, .NET, Windows Server) alongside comprehensive support for open-source technologies, making it a favorite for enterprise IT environments.

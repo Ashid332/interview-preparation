@@ -1,4 +1,4 @@
-﻿# OpenAI Interview Experience
+# OpenAI Interview Experience
 
 ## Role/Level
 - **Title:** Member of Technical Staff (Software Engineering)

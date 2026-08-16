@@ -27,8 +27,8 @@ I would design an A/B test holding out the feature for 5% of users to measure tr
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Metric Drop | DAU dropped by 10% yesterday. How do you investigate? | Hard | [Link](#) |
-| Feature Launch | Should we launch a feature if it increases engagement but drops revenue? | Medium | [Link](#) |
+| Metric Drop | DAU dropped by 10% yesterday. How do you investigate? | Hard | None |
+| Feature Launch | Should we launch a feature if it increases engagement but drops revenue? | Medium | None |
 
 ## Hiring Manager Perspective
 Case studies are where candidates shine or fail. I am looking for structured thinking. Do they clarify the goal first? Do they state their assumptions? Do they define clear, actionable metrics rather than vague vanity metrics?

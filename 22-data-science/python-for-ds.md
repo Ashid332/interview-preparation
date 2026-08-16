@@ -27,8 +27,8 @@ Pandas loads the entire dataset into RAM. If the data is larger than RAM, you wi
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Vectorization | Rewrite a `for` loop using NumPy vectorized operations | Medium | [Link](#) |
-| GroupBy Aggregation | Complex multi-level grouping and aggregation in Pandas | Medium | [Link](#) |
+| Vectorization | Rewrite a `for` loop using NumPy vectorized operations | Medium | None |
+| GroupBy Aggregation | Complex multi-level grouping and aggregation in Pandas | Medium | None |
 
 ## Hiring Manager Perspective
 Anyone can write a Pandas script that works on 1MB of data. I want to see if the candidate knows how to write efficient, vectorized code that won't crash our production servers when applied to 10GB of data.

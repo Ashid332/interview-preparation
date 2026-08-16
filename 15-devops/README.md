@@ -1,4 +1,4 @@
-﻿# DevOps Engineering
+# DevOps Engineering
 
 ## Overview
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. This section covers the fundamental principles of DevOps, including culture, automation, measurement, and sharing (CAMS).

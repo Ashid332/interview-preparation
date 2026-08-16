@@ -26,8 +26,8 @@ The goal is to find the sweet spot that minimizes total error by balancing bias 
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Learning Curves | Diagnose high bias vs high variance from learning curves | Easy | [Link](#) |
-| Regularization Impact | Apply L1/L2 and observe the effect on bias/variance | Medium | [Link](#) |
+| Learning Curves | Diagnose high bias vs high variance from learning curves | Easy | None |
+| Regularization Impact | Apply L1/L2 and observe the effect on bias/variance | Medium | None |
 
 ## Hiring Manager Perspective
 Candidates must be able to diagnose a poorly performing model. If a model is overfitting, what steps should they take? If they don't understand bias and variance, they will waste time trying the wrong solutions (like adding more data when the model has high bias).

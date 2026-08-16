@@ -28,8 +28,8 @@ I usually start with simple imputation plus a missing indicator, then test if ad
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Categorical Encoding | Compare One-Hot, Target, and Frequency encoding | Medium | [Link](#) |
-| Time Series Features | Create lag and rolling window features for sales data | Medium | [Link](#) |
+| Categorical Encoding | Compare One-Hot, Target, and Frequency encoding | Medium | None |
+| Time Series Features | Create lag and rolling window features for sales data | Medium | None |
 
 ## Hiring Manager Perspective
 Real data is garbage. I need to know the candidate can clean it up effectively. The ability to create a clever new feature from existing data often yields a higher performance boost than spending days tuning hyper-parameters on a neural network.

@@ -24,8 +24,8 @@ I use a **scatter plot** to show the relationship or correlation between two num
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Chart Selection | Given a dataset, suggest the top 3 ways to visualize it | Medium | [Link](#) |
-| Dashboard Critique | Identify flaws in a poorly designed dashboard | Easy | [Link](#) |
+| Chart Selection | Given a dataset, suggest the top 3 ways to visualize it | Medium | None |
+| Dashboard Critique | Identify flaws in a poorly designed dashboard | Easy | None |
 
 ## Hiring Manager Perspective
 I look for empathy for the end-user. Does the candidate understand that the CEO has 5 seconds to look at this chart? They need to highlight the main takeaway clearly (using titles, annotations, and color sparingly) rather than dumping data on a screen.

@@ -24,7 +24,7 @@ A Data Scientist tends to focus on predictive and prescriptive analytics, utiliz
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Role Fit | Describe a situation where an Analyst is needed vs a Scientist | Easy | [Link](#) |
+| Role Fit | Describe a situation where an Analyst is needed vs a Scientist | Easy | None |
 
 ## Hiring Manager Perspective
 I look for candidates with excellent communication skills. A brilliant SQL query is useless if the analyst cannot explain the resulting insights to a non-technical marketing team and influence their decisions.

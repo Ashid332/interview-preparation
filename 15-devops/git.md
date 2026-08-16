@@ -1,4 +1,4 @@
-﻿# Git & Version Control
+# Git & Version Control
 
 ## Overview
 Git is a distributed version control system that tracks changes in source code. It is designed to handle everything from small to very large projects with speed and efficiency. Mastery of Git is essential for collaborating in almost any modern engineering team.

@@ -25,8 +25,8 @@ I would use PR-AUC when dealing with highly imbalanced datasets where the positi
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Metric Calculation | Given a confusion matrix, calculate Precision, Recall, F1 | Easy | [Link](#) |
-| Imbalanced Data | Optimize a classifier on a 99:1 imbalanced dataset | Medium | [Link](#) |
+| Metric Calculation | Given a confusion matrix, calculate Precision, Recall, F1 | Easy | None |
+| Imbalanced Data | Optimize a classifier on a 99:1 imbalanced dataset | Medium | None |
 
 ## Hiring Manager Perspective
 Candidates often default to Accuracy, which is a massive red flag if the data is imbalanced. I look for a candidate who ties the evaluation metric directly to the business problem. A good engineer knows that metrics are proxies for business goals.

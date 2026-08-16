@@ -28,8 +28,8 @@ The vanishing gradient problem occurs during backpropagation in deep neural netw
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Backpropagation | Manually calculate gradients for a 2-layer network | Hard | [Link](#) |
-| CNN Architecture | Calculate the output dimensions of a Conv2D layer | Medium | [Link](#) |
+| Backpropagation | Manually calculate gradients for a 2-layer network | Hard | None |
+| CNN Architecture | Calculate the output dimensions of a Conv2D layer | Medium | None |
 
 ## Hiring Manager Perspective
 For specialized DL roles, we need deep mathematical intuition, not just the ability to write `import torch`. Candidates must understand the training dynamics, why a model isn't converging, and how to debug the architecture.

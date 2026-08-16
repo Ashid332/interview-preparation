@@ -24,8 +24,8 @@ Instead of having messy, undocumented SQL scripts running via cron jobs, dbt all
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Tool Comparison | Compare Tableau vs Looker architecture | Easy | [Link](#) |
-| Excel Mastery | Explain VLOOKUP vs INDEX/MATCH | Easy | [Link](#) |
+| Tool Comparison | Compare Tableau vs Looker architecture | Easy | None |
+| Excel Mastery | Explain VLOOKUP vs INDEX/MATCH | Easy | None |
 
 ## Hiring Manager Perspective
 While tools can be learned, I want to see if the candidate understands the *ecosystem*. Do they know why we use a columnar database like Redshift for analytics instead of Postgres? Do they appreciate data governance?

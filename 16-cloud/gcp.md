@@ -1,4 +1,4 @@
-﻿# Google Cloud Platform (GCP)
+# Google Cloud Platform (GCP)
 
 ## Overview
 Google Cloud Platform is known for its high-performance global network, deep expertise in data analytics, and machine learning capabilities. It is the birthplace of Kubernetes and offers highly developer-friendly serverless and container offerings.

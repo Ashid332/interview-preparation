@@ -1,4 +1,4 @@
-﻿# Problem Solving Framework
+# Problem Solving Framework
 
 ## Overview
 A structured problem-solving framework is essential for navigating technical interviews successfully. It ensures you don't get stuck, communicate effectively, and cover all bases before writing code. A common framework is: Understand, Plan, Execute, and Review (UPER) or similar variations.

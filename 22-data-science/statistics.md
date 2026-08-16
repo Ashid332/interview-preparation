@@ -25,8 +25,8 @@ Since getting 10 heads in a row with a fair coin is extremely unlikely (less tha
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Bayes Theorem | Solve a medical testing probability problem | Medium | [Link](#) |
-| A/B Test Sizing | Calculate the required sample size for an A/B test | Hard | [Link](#) |
+| Bayes Theorem | Solve a medical testing probability problem | Medium | None |
+| A/B Test Sizing | Calculate the required sample size for an A/B test | Hard | None |
 
 ## Hiring Manager Perspective
 We want to see that candidates won't misinterpret experimental results. A data scientist who doesn't understand statistical significance might recommend launching a feature based on noise, costing the company millions.

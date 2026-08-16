@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Engineering Interview Handbook Logo" width="150"/>
+  <img src="" alt="Engineering Interview Handbook Logo" width="150"/>
   <h1>Engineering Interview Handbook</h1>
   <p>The definitive, open-source curriculum for engineering interview preparation.</p>
 
@@ -67,7 +67,7 @@ This handbook relies on the engineering community to stay accurate.
 
 *   **Contribute:** Read our [Style Guide](STYLE_GUIDE.md) and [Contributing Guide](CONTRIBUTING.md).
 *   **Share Experience:** Submit a recent interview loop via our [Interview Experience Template](.github/ISSUE_TEMPLATE/interview-experience.yml).
-*   **Discussions:** Join our [GitHub Discussions](https://github.com/Ashid332/interview-preparation/discussions) to find mock interview partners.
+*   **Discussions:** Join our [GitHub Discussions](https://github.com/Ashid332/interview-preparation) to find mock interview partners.
 
 ## 🔮 Future Vision
 

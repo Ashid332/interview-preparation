@@ -1,7 +1,7 @@
-﻿# Cloud Engineering & Architecture
+# Cloud Engineering & Architecture
 
 ## Overview
-Cloud computing is the delivery of computing servicesâ€”including servers, storage, databases, networking, software, and analyticsâ€”over the Internet. This section covers overarching cloud architecture concepts as well as deep dives into the major providers (AWS, Azure, GCP).
+Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, and analytics—over the Internet. This section covers overarching cloud architecture concepts as well as deep dives into the major providers (AWS, Azure, GCP).
 
 ## Interview Questions
 

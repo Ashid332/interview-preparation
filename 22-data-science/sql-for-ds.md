@@ -26,8 +26,8 @@ For example, if you want to find customers who made a purchase in 2023, you use 
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Nth Highest Salary | Find the Nth highest salary using dense_rank | Medium | [Link](#) |
-| Retention Curve | Write a query to calculate Month-over-Month retention | Hard | [Link](#) |
+| Nth Highest Salary | Find the Nth highest salary using dense_rank | Medium | None |
+| Retention Curve | Write a query to calculate Month-over-Month retention | Hard | None |
 
 ## Hiring Manager Perspective
 If a data scientist cannot write complex SQL, they will constantly block on data engineering teams to get the data they need. I look for fluency in CTEs and window functions, and an understanding of query optimization.

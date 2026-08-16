@@ -1,4 +1,4 @@
-﻿# Cloud Architecture
+# Cloud Architecture
 
 ## Overview
 Cloud Architecture refers to how individual technologies are integrated to create environments that are scalable, reliable, secure, and cost-effective. It involves high-level system design principles and applying best practices (like the Well-Architected Framework) regardless of the specific cloud provider.

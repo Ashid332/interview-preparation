@@ -26,8 +26,8 @@ This decorrelates the trees, so when their predictions are averaged, the varianc
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Implement Tree | Write a simple decision tree split function from scratch | Hard | [Link](#) |
-| Algorithm Comparison | Compare SVM and Logistic Regression decision boundaries | Medium | [Link](#) |
+| Implement Tree | Write a simple decision tree split function from scratch | Hard | None |
+| Algorithm Comparison | Compare SVM and Logistic Regression decision boundaries | Medium | None |
 
 ## Hiring Manager Perspective
 I want to know if the candidate understands the assumptions and limitations of the algorithm. Do they know that tree-based models don't extrapolate well outside the training data range? Do they know when to scale features (e.g., for SVMs or KNNs) versus when it's not strictly necessary (e.g., for tree-based models)?

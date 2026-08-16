@@ -40,8 +40,8 @@ This uses a CTE to first get daily unique counts, and then applies a window func
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Sessionization | Group user events into 30-minute sessions | Hard | [Link](#) |
-| Cumulative Sum | Calculate running total of revenue by month | Medium | [Link](#) |
+| Sessionization | Group user events into 30-minute sessions | Hard | None |
+| Cumulative Sum | Calculate running total of revenue by month | Medium | None |
 
 ## Hiring Manager Perspective
 Can the candidate write readable, maintainable SQL? I look for good formatting, proper use of CTEs instead of deeply nested subqueries, and a solid understanding of edge cases (like how to handle days with zero logins).

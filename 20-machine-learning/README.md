@@ -24,8 +24,8 @@ The choice depends on the problem type (classification vs. regression), data siz
 
 | Problem | Description | Difficulty | Link |
 |---|---|---|---|
-| Algorithm Selection | Choose the right algorithm for a given dataset | Medium | [Link](#) |
-| System Design | Design a personalized feed | Hard | [Link](#) |
+| Algorithm Selection | Choose the right algorithm for a given dataset | Medium | None |
+| System Design | Design a personalized feed | Hard | None |
 
 ## Hiring Manager Perspective
 We look for a pragmatic approach. Can the candidate balance model accuracy with deployment constraints and interpretability? Do they understand *why* an algorithm works, not just how to call an API? We want engineers who can debug models when they fail in production.

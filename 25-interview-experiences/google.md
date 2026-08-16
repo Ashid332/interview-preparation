@@ -1,4 +1,4 @@
-﻿# Google Interview Experience
+# Google Interview Experience
 
 ## Role/Level
 - **Title:** Software Engineer

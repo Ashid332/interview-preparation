@@ -1,4 +1,4 @@
-﻿# Amazon Interview Experience
+# Amazon Interview Experience
 
 ## Role/Level
 - **Title:** Software Development Engineer II (SDE II)

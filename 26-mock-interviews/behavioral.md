@@ -1,4 +1,4 @@
-﻿# Behavioral Mock Interview
+# Behavioral Mock Interview
 
 ## Format/Duration/Difficulty
 * **Format:** Behavioral / Past Experience

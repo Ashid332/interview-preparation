@@ -1,4 +1,4 @@
-﻿# Netflix Interview Experience
+# Netflix Interview Experience
 
 ## Role/Level
 - **Title:** Senior Software Engineer

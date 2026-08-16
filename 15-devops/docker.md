@@ -1,4 +1,4 @@
-﻿# Docker
+# Docker
 
 ## Overview
 Docker is a platform designed to help developers build, share, and run modern applications. It packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime.

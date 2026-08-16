@@ -1,4 +1,4 @@
-﻿# Anthropic Interview Experience
+# Anthropic Interview Experience
 
 ## Role/Level
 - **Title:** Software Engineer (Infrastructure)

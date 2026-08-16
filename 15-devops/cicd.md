@@ -1,4 +1,4 @@
-﻿# CI/CD (Continuous Integration & Continuous Deployment)
+# CI/CD (Continuous Integration & Continuous Deployment)
 
 ## Overview
 CI/CD forms the backbone of modern software delivery. Continuous Integration involves frequently merging code changes into a central repository where automated builds and tests are run. Continuous Deployment (or Delivery) automates the release of that validated code to staging or production environments.
