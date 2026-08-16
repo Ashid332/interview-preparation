@@ -17,10 +17,9 @@ Welcome to the full directory of the Engineering Interview Handbook. If you are 
 ## Technical Library
 - [Software Engineering Fundamentals](07-software-engineering/README.md)
 - [Frontend Engineering](08-frontend/README.md)
-- [Backend Engineering](09-backend/README.md)
+- [Backend & APIs](09-backend/README.md)
 - [Full Stack Architecture](10-full-stack/README.md)
 - [Databases](11-databases/README.md)
-- [APIs (REST, GraphQL, gRPC)](12-apis/README.md)
 - [System Design](13-system-design/README.md)
 - [Networking](14-networking/README.md)
 - [DevOps](15-devops/README.md)
@@ -30,8 +29,7 @@ Welcome to the full directory of the Engineering Interview Handbook. If you are 
 - [AI Engineering (RAG, Agents, LLMs)](19-ai-engineering/README.md)
 - [Machine Learning](20-machine-learning/README.md)
 - [Data Engineering](21-data-engineering/README.md)
-- [Data Science](22-data-science/README.md)
-- [Data Analytics](23-data-analytics/README.md)
+- [Data Science & Analytics](22-data-science/README.md)
 
 ## Company Intelligence
 - [Company Guides (Google, Meta, Amazon, etc.)](24-company-guides/README.md)
